@@ -1,0 +1,10 @@
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/ParameterModeHolder.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/PolicyErrorCodeHelper.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/ParameterModeHelper.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/StringSeqHelper.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/ParameterMode.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/StringSeqHolder.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/PolicyErrorHolder.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/WStringSeqHelper.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/WStringSeqHolder.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/CORBA/PolicyErrorHelper.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/CORBAX.idl

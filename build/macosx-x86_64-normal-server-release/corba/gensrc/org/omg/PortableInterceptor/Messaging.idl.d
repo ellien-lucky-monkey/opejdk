@@ -1,0 +1,2 @@
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/Messaging/SYNC_WITH_TRANSPORT.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/Messaging.idl
+/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/Messaging/SyncScopeHelper.java: /Users/ellien/jdk/jdk8/corba/src/share/classes/org/omg/PortableInterceptor/Messaging.idl

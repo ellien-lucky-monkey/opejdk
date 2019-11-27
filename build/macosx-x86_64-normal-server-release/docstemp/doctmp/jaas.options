@@ -1,0 +1,9 @@
+-XDignore.symbol.file=true -quiet -use -keywords -Xdoclint:none -Xprofilespath /Users/ellien/jdk/jdk8/jdk/make/profile-rtjar-includes.txt -Xdocrootparent http://download.oracle.com/javase/7/docs
+-sourcepath '/Users/ellien/jdk/jdk8/jdk/src/share/classes:/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/jdk/impsrc:/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/jdk/gensrc:/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/jdk/gendocsrc_rmic:/Users/ellien/jdk/jdk8/jdk/src/solaris/classes:/Users/ellien/jdk/jdk8/jdk/src/windows/classes:/Users/ellien/jdk/jdk8/jdk/src/share/doc/stub'
+-encoding 'ascii'
+-overview '/Users/ellien/jdk/jdk8/jdk/src/share/classes/com/sun/security/auth/jaas-overview.html'
+-doctitle 'Java&trade; Authentication and Authorization Service'
+-windowtitle 'Java Authentication and Authorization Service b00'
+-header '<strong>Java Authentication and Authorization Service</strong><br><strong>DRAFT&nbsp;internal-b00</strong>'
+-bottom '<font size="-1"><br> Copyright &#x00a9; 1998, 2019, Oracle and/or its affiliates.  All rights reserved.</font><br><strong>DRAFT&nbsp;internal-b00</strong>'
+-linkoffline '../../../../../api' '/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/docs/api/'

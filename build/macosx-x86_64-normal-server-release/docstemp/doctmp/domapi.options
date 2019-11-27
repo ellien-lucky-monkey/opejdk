@@ -1,0 +1,10 @@
+-XDignore.symbol.file=true -quiet -use -keywords -Xdoclint:none -Xprofilespath /Users/ellien/jdk/jdk8/jdk/make/profile-rtjar-includes.txt -Xdocrootparent http://download.oracle.com/javase/7/docs
+-sourcepath '/Users/ellien/jdk/jdk8/jdk/src/share/classes:/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/jdk/impsrc:/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/jdk/gensrc:/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/jdk/gendocsrc_rmic:/Users/ellien/jdk/jdk8/jdk/src/solaris/classes:/Users/ellien/jdk/jdk8/jdk/src/windows/classes:/Users/ellien/jdk/jdk8/jdk/src/share/doc/stub'
+-encoding 'ascii'
+-splitIndex
+-doctitle 'Common DOM API'
+-windowtitle 'Common DOM API b00'
+-header '<strong>Common DOM API</strong><br><strong>DRAFT&nbsp;internal-b00</strong>'
+-bottom '<font size="-1"> <a href="http://bugreport.sun.com/bugreport/">Submit a bug or feature</a><br>Java is a trademark or registered trademark of Oracle and/or its affiliates in the US and other countries.<br> Copyright &#x00a9; 2005, 2019, Oracle and/or its affiliates. 500 Oracle Parkway<br>Redwood Shores, CA 94065 USA. All rights reserved. </font><br><strong>DRAFT&nbsp;internal-b00</strong>'
+-group 'Packages' 'com.sun.java.browser.dom:org.w3c.dom*'
+-linkoffline '../../../../api' '/Users/ellien/jdk/jdk8/build/macosx-x86_64-normal-server-release/docs/api/'
