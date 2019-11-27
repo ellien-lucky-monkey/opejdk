@@ -38,3 +38,7 @@ is 3.81 or newer. Note that on Solaris, GNU make is called "gmake".
 
 Complete details are available in the file:
      http://hg.openjdk.java.net/jdk8/jdk8/raw-file/tip/README-builds.html
+
+该项目是mac版本编译后的openjdk8源码
+
+
